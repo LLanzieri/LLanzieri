@@ -70,7 +70,7 @@ Me gusta el desarrollo y enfrentar nuevos desafíos, poniendo todo lo mejor en c
    ### 💬 ¡Estemos en contacto!
   
   <div>
-  <img src="https://user-images.githubusercontent.com/21178992/147988631-e980910c-26ac-48b0-b3eb-4ec560fb7aad.gif" align="left" width=300 height=300/>
+  <img src="https://user-images.githubusercontent.com/21178992/147988631-e980910c-26ac-48b0-b3eb-4ec560fb7aad.gif" align="left" width=300 height=250/>
     
   | Canal | Enlace |
 | ------------- | ------------- |
