@@ -48,7 +48,7 @@ Me gusta el desarrollo y enfrentar nuevos desafíos, poniendo todo lo mejor en c
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   </p>
 
-- *Ya tengo agendado aprender* : 
+- *Ya tengo agendado aprender sobre* : 
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   </p>
