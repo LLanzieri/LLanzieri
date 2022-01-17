@@ -13,7 +13,7 @@
   <img src="https://user-images.githubusercontent.com/21178992/147957921-f18a8357-4543-440c-891a-7bc1dcbd7def.gif" align="right" width=300/>
 Me presento 😄 mi nombre es Leonardo Lanzieri, soy Ingeniero informático 💻, curioso y apasionado por la tecnología ya desde chico (las consolas siempre fueron mi perdición 🎮) aunque también me gusta realizar actividades al aire libre. ⚽<br>
 Mi página de Github comenzó con fines universitarios, pero en la actualidad me encuentro aprendiendo y expandiendo mis conocimientos en desarrollo web y mobile, stack que despiertan mi interés hace un tiempo. 👀<br>
-Te invito a que veas mis repositorios, ya sea que busques ideas o que puedas apreciar algunos de mis proyectos realizados a lo largo de mi carrera universitaria y cursos realizados con el propósito de poder aprender las tecnologías actuales del mercado. 🧠<br>
+Te invito a que veas mis repositorios, ya sea que busques ideas o que puedas apreciar algunos de mis proyectos realizados a lo largo de mi carrera universitaria y diversos cursos con el propósito de poder aprender las tecnologías actuales del mercado. 🧠<br>
 Me gusta el desarrollo y enfrentar nuevos desafíos, poniendo todo lo mejor en cada uno de ellos. 💪 
 </p>
 </div>
