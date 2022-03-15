@@ -74,7 +74,7 @@ Me gusta el desarrollo y enfrentar nuevos desafíos, poniendo todo lo mejor en c
     
   | Canal | Enlace |
 | ------------- | ------------- |
-| 👉 📑 Mi Curriculum profesional  | <a href="https://drive.google.com/file/d/1sqYgmdWI5ZMcJ-kZ87ZBZZgLmWz5YmQK/view?usp=sharing"> <img src="https://user-images.githubusercontent.com/21178992/147991227-dcb37984-6d7d-41a0-86e6-61c60ed74cf1.png" width=30/></a>  |
+| 👉 📑 Mi Curriculum profesional  | <a href="https://drive.google.com/file/d/1wOlb46dJlXm9YYSj47x87KXnUsl4419_/view?usp=sharing"> <img src="https://user-images.githubusercontent.com/21178992/147991227-dcb37984-6d7d-41a0-86e6-61c60ed74cf1.png" width=30/></a>  |
 | 👉 🔗 Mi perfil de LinkedIn  | <a href="https://www.linkedin.com/in/leonardo-agustin-lanzieri-33154717b/"> <img src="https://user-images.githubusercontent.com/21178992/147962319-3ea6ad9b-2313-4ecb-8004-a41ffddad2ea.png" width=30/></a>  |
   | 👉 📧 Casilla de Hotmail: leonardolanzieri@hotmail.com  | <a href="mailto:leonardolanzieri@hotmail.com"> <img src="https://user-images.githubusercontent.com/21178992/147992317-03f11cbe-9dd5-4872-8e18-971eb8bb3238.png" width=30/></a>  |
   | 👉 📧 Casilla de Gmail: leolanzieri1@gmail.com  | <a href="mailto:leolanzieri1@gmail.com"> <img src="https://user-images.githubusercontent.com/21178992/147992172-718aa25f-2d49-4756-a259-e52831d544a1.png" width=40/></a>  |
